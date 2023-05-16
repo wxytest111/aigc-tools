@@ -1,5 +1,9 @@
 _site
+.idea/
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+**/.DS_Store
+package-lock.json
+node_modules/
 vendor
